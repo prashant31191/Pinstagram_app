@@ -1,0 +1,751 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", MH1 News
+http://80.243.182.106:8080/mh1/mh1news/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Khabrayn Abhi Tak
+http://edge-ind.inapcdn.in:1935/berry/latest.stream_aac/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", 777 News/DNN
+http://80.243.182.106:8080/777/777news/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Smachar Plus
+http://edge-ind.inapcdn.in:1935/wrap/samaca2.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Day andNight News
+http://edge-ap2.cloudfrontcdn.in:1935/vivo/dana.stream_aac/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", News Nation
+http://54.255.176.172:1935/live/smil:mystream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Sky News
+mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", DD News
+http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddnewslive.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", India Vision
+http://live.wmncdn.net/indiavisiontv/db65322988fe2be4bc40b7175de75c0e.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", DD Raja Saba
+http://164.100.31.234/hls-live/livepkgr/_definst_/rstvlive/rstvlive.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Janta TV
+http://jlive.itv.net.in:1935/jantatv/myStream.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Media One
+http://live.wmncdn.net/mediaonetv/bf483c577478066127ebec1e06b7f690.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", MathruBhumi News
+http://d2efse2o46g8jb.cloudfront.net/live/smil:mnews.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Shiri News
+http://live.wmncdn.net/shrinewstv/e2c1680f2177d9647a218609a3a2fd5e.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Sadhna News
+http://edge-ind.inapcdn.in:1935/berry/sfmacb4.stream_aac/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", TV One
+http://pitelevision.com:1935/pitelevision/tvone3_360p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Tv One link 2
+http://cdn.ebound.tv:1935/tv/tvoneglobal/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", HBO
+http://pitelevision.com:1935/pitelevision/hbo23/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Play TV
+http://cdn.ebound.tv:1935/tv/playtv/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Star Gold
+http://cdn.ebound.tv:1935/tv/stargold/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Punjab TV
+http://pitelevision.com:1935/pitelevision/punjabtv3_360p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Mehran TV
+http://pitelevision.com:1935/pitelevision/mehran3_360p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Vibe TV
+http://cdn.ebound.tv:1935/tv/nvibe/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Nick
+http://streamer27.eboundservices.com:1935/tv/nick/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Apna TV
+http://cdn.ebound.tv:1935/tv/apna/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Colors TV
+http://cdn.ebound.tv:1935/tv/colors/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Style 360
+http://cdn.ebound.tv:1935/tv/style360/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Times TV
+http://cdn.ebound.tv:1935/tv/times/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Indus Vision
+http://pitelevision.com:1935/pitelevision/indus3_360p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Gawahi TV
+http://cdn.ebound.tv:1935/tv/gawahi/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Dekho TV
+http://54.243.231.64:1935/live/dekhotv.mp4/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Life TV
+http://cdn.ebound.tv:1935/tv/lifetv/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", G1 TV
+http://cdn.ebound.tv:1935/tv/g1tv/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", STAR PLUS
+http://livestream.dodear.com:1935/tv/starplus/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", DD Punjabi
+http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddpunjabi.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Star Maza
+http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Care World TV
+http://live.careworldtv.com/live/careworld/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Zee Smile
+http://streamer27.eboundservices.com:1935/tv/zeecinema/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Tamilian TV
+http://38.96.175.192:1943/live/tamilantelevision1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Aryan TV
+http://edge-ind.inapcdn.in:1935/berry/smarts2.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", ETV Marathi
+http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Namma TV
+http://studiosystem.co.in:1935/live/namma.stream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Navi Mumbai TV
+http://edge-ind.inapcdn.in:1935/hydra/nmtv.sdp_aac/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Sudharshan TV
+http://live.wmncdn.net/sudarshantv/72781e965e0681e980034a778ee7067b.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Captin TV
+http://edge.purplestream.com/live/captain/amlst:captaintv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Samaya 24×7
+http://edge.purplestream.com/live/samtv/amlst:samayatv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Discovery
+http://cdn.ebound.tv:1935/tv//discovery/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Movies
+http://cdn.ebound.tv:1935/tv/movie/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", HBO Movies
+http://cdn.ebound.tv:1935/tv/hbo/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", English Movies
+http://streamer27.eboundservices.com:1935/tv/starmovies/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Star Movies
+http://pitelevision.com:1935/pitelevision/starmovies3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Film World
+http://pitelevision.com:1935/pitelevision/filmworld3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Play Max TV
+http://cdn.ebound.tv:1935/tv/playtv/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Play Max 2
+http://pitelevision.com:1935/pitelevision/playmax3_360p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", 8 XM
+http://cdn.ebound.tv:1935/tv/8xm/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Jalwa
+http://cdn.ebound.tv:1935/tv/jalwa/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Indus Music
+http://pitelevision.com:1935/pitelevision/indusmusic3_360p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", EMax
+http://cdn.ebound.tv:1935/tv/emax/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", National Geographic
+http://cdn.ebound.tv:1935/tv/nationalgeographic/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Cartoon Network
+http://80.243.182.106:8080/cartoonn002/cartoon002/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Pogo
+http://cdn.ebound.tv:1935/tv/pogo/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", iKid
+http://cdn.ebound.tv:1935/tv/ikid/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Nick
+http://cdn.ebound.tv:1935/tv/nick/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Zaiqa TV
+http://cdn.ebound.tv:1935/tv/zaiqa/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Masala TV
+http://cdn.ebound.tv:1935/tv/masalatv/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Peace TV
+http://cdn.ebound.tv:1935/tv/peacetv/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Peace TV Urdu
+rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4×3-sdh_1
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", QTV
+http://cdn.ebound.tv:1935/tv/qtv/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Madni Channel
+http://cdn.ebound.tv:1935/tv/madani/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Mecca TV
+http://cdn.ebound.tv:1935/tv/mecca/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Raah TV
+http://cdn.ebound.tv:1935/tv/raahtv/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Hadi TV
+http://cdn.ebound.tv:1935/tv/hadi/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Minhaaj TV
+http://cdn.ebound.tv:1935/tv/minhajtv/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Madina TV
+http://cdn.ebound.tv:1935/tv/madina/playlist.m3u8?wmsAuthSign=
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Madina TV 2
+http://202.125.132.37:1935/pitelevision/madina.smil/samitv.ga.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Such TV
+http://cdn.ebound.tv:1935/tv/suchtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Islam TV
+rtsp://wowza04.sharp-stream.com/islamtv/islamtv
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Paigham TV
+http://125.209.77.130:1935/live/livestream1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Gaz
+http://103.26.115.180:1935/live/bh_gazi/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", BTV World
+http://103.26.115.180:1935/live/bh_btv_world/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD",ATN World
+http://103.26.115.180:1935/live/bh_atn_bangla/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD",ATN News
+http://103.26.115.180:1935/live/bh_atn_news/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Desh TV
+http://103.26.115.180:1935/live/bh_bangla_vision/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", NTV
+http://103.26.115.180:1935/live/bh_ntv/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Jamuna
+http://103.26.115.180:1935/live/bh_jamuna/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Eksushay
+http://103.26.115.180:1935/live/bh_ekushay/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD",Channel 9
+http://103.26.115.180:1935/live/bh_channel9/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Channel I
+http://103.26.115.180:1935/live/bh_channeli/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Independent
+http://103.26.115.180:1935/live/bh_independent/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Channel 24
+http://103.26.115.180:1935/live/bh_channel24/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Somoy
+http://103.26.115.180:1935/live/bh_somoy/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD",Gazi TV
+http://103.26.115.180:1935/live/bl_gazi/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Massranga
+http://103.26.115.180:1935/live/bl_maasranga/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", Boishaki
+http://103.26.115.180:1935/live/bh_boishakhi/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="teleantioquia.png" group-title="Indian HD", RTV
+http://103.26.115.180:1935/live/bh_rtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", 9x Tashan
+rtsp://46.249.213.93/broadcast/9xmtashan-tablet.3gp
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", asianet-middle-east-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", asianet-movies-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", asianet-news-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia0.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", B4U
+rtsp://46.249.213.87/broadcast/b4u-tablet.3gp
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", BOLLYWOOD ACTION 2
+rtsp://46.249.213.87/broadcast/bollywoodaction2-tablet.3gp
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", BOLLYWOOD CINEMA
+rtsp://46.249.213.87/broadcast/bollywoodcinema1-tablet.3gp
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", BOLLYWOOD CINEMA 2
+rtsp://46.249.213.87/broadcast/bollywoodcinema2-tablet.3gp
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Bollywood Gossip
+rtsp://46.249.213.87/broadcast/bollywoodgossip-tablet.3gp
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", BOLLYWOOD HUNGAMA
+rtsp://46.249.213.87/broadcast/bollywoodhungama-tablet.3gp
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Bollywood Independent Cinema
+rtsp://46.249.213.93/broadcast/indianstudentcinema-tablet.3gp
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", bollywoodaction2
+rtsp://46.249.213.87/broadcast/bollywoodaction2-tablet.3gp
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", bollywoodcinema2
+rtsp://46.249.213.87/broadcast/bollywoodcinema2-tablet.3gp
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", bollywoodhungama
+rtsp://46.249.213.87/broadcast/bollywoodhungama-tablet.3gp
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", DAAI TV
+rtsp://cdn.mivo.tv/mivotvjkt/daaitv2
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Dawn News
+rtsp://dawnstream.hostingmadeeasy.com/dawn
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Films of India
+rtsp://46.249.213.93/broadcast/filmsofindia-tablet.3gp
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", GEM BOLLYWOOD
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-gembollywood-live-25f-16x9-HD?ref=www.gemonline.tv&USER=Gem+Bollywood
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", GEM LİFE1
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-life1-live-25f-16x9-HD?ref=www.gemonline.tv&USER=LIFE1
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", GEM MİFA
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-mifa-live-16x9-HD?ref=www.gemonline.tv&USER=MIFA+MUSIC
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", GEM ONYX
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-onyx-live-16x9-HD?ref=www.gemonline.tv&USER=ONYX
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", GEM RİVER
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-river-live-16x9-HD?ref=www.gemonline.tv&USER=River+HD
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", GEM RUBİX
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-rubix-live-16x9-HD?ref=www.gemonline.tv&USER=RUBIX+HD
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", GEM RUBİX
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-rubix-live-16x9-HD?ref=www.gemonline.tv&USER=RUBIX+HD
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", GEM TRAVEL
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-travel-live-25f-16x9-HD?ref=www.gemonline.tv&USER=TRAVEL
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", GEM0-100
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-0100-live-25f-16x9-HD?ref=www.gemonline.tv&USER=0-100
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Global TV (Thaherq)
+rtsp://cdn.mivo.tv/mivotvjkt/globaltv2
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Hindi Movies
+rtsp://46.249.213.93/broadcast/hindimovies-tablet.3gp
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", indiavision-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=hmtv1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", manorama-news-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.243/base2 playpath=maha1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", mathrubhumi-news/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia10.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", mazhavil-manorama-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=maha2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", mediaone-tv-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia17.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", MHARISHI CHANNEL
+rtsp://streaming.mou.org/videodialup
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", MIVO TV
+rtsp://cdn.mivo.tv/mivotvjkt/mivotv_480p
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", MNC TV
+rtsp://cdn.mivo.tv/mivotvjkt/mnctv2
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", ND TV
+http://bglive-a.bitgravity.com/ndtv/247hi/live/native
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", NDTV 24x7
+http://bglive-a.bitgravity.com/ndtv/247lo/live/native
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", NDTV India
+http://bglive-a.bitgravity.com/ndtv/indlo/live/native
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", NDTV Profit
+http://bglive-a.bitgravity.com/ndtv/prolo/live/native
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", RCTI TV
+rtsp://cdn.mivo.tv/mivotvjkt/rcti2
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", reporter-tv-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia5.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", shalom-tv-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.243/base2 playpath=asia16.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Sony SAB TV
+rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Tamil lotusnews
+rtmp://$OPT:rtmp-raw=rtmp://live.wmncdn.net/lotus/ playpath=25526e8cfa035fc30910e40b3f2e4348.sdp swfUrl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf live=1 pageUrl=http://livetvchannelsfree.com/lotusnews.html
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Tamil vasanthamtv
+rtmp://$OPT:rtmp-raw=rtmp://mediacp2.comcities.com:1935/itn-vasantham playpath=itn-vasantham swfUrl=http://cdn.itnlanka.com/vasanthamtv.swf live=1 pageUrl=http://livetvchannelsfree.com/vasanthamtv.html
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", TRANS TV
+rtsp://cdn.mivo.tv/mivotvjkt/transtv2
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", TV ONE
+rtsp://cdn.mivo.tv/mivotvjkt/tvone2
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Vasanth TV(Tamil)
+http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed02?e=0%26h=a9be0836bc39f96d0a9a958a659dfc1d%26bgsecuredir=1
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", ***HasBahCa IPTV***ASYA-ASIEN-ASIA***
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", ACTS Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=7AFA3E0A91BF4CDCA51C0A5344FD99DC
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Al Jazeera
+http://103.13.228.157/streamlink.m3u8?channel_id=EA4C9D2666BC411D8E6777E8A1D2B747
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", AMARIN activ TV
+http://103.13.228.157/streamlink.m3u8?channel_id=5A84DB6569AB4EDD9CED59E0D3A620E5
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Amarin HD
+http://103.13.228.157/streamlink.m3u8?channel_id=78f57ebcf6064b308d75208a20756983
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Animax
+http://103.13.228.157/streamlink.m3u8?channel_id=d3edb48a8bb847c78432270e23ddca73
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Asia Update
+http://103.13.228.157/streamlink.m3u8?channel_id=6d5587cf7ce94cd8a7477775b7ddc253
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", ASTV NEWS 1
+http://103.13.228.157/streamlink.m3u8?channel_id=31dbe17e0c1b4c8684200f83b85b007b
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", B4U Music India
+http://103.13.228.157/streamlink.m3u8?channel_id=81ff107849124ff389814b0b8816b1ba
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Baby TV HD
+http://103.13.228.157/streamlink.m3u8?channel_id=7773f3cef0334a28ad248552ea63d9e7
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Bang Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=45607BB280464483896716F7FA17B4D2
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Bangkok Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=26FE491F794F4497AC96BC1571A705BC
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", BIG
+http://103.13.228.157/streamlink.m3u8?channel_id=ab0b43ef8363438098a94101e93ca138
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Biography Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=169a149fd1ef40edba0bbfc8e0f1bdd1
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Biography HD (BIO)
+http://103.13.228.157/streamlink.m3u8?channel_id=8c49d827190b4b29a9d5e3be92e5054c
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Bluesky Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=76221348029846b6a86cce2f76e60f82
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Boomerang
+http://103.13.228.157/streamlink.m3u8?channel_id=06c02432266f4f42b48947e075de38c5
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Bright TV
+http://103.13.228.157/streamlink.m3u8?channel_id=89264a79a72b48eeb90f3fde7ae13740
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Cartoon Club
+http://103.13.228.157/streamlink.m3u8?channel_id=860605f7e16d4c6cacef72ef02ffa2c1
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Cartoonito HD
+http://103.13.228.157/streamlink.m3u8?channel_id=dff1502eb25c4912aea009df5d0fde9b
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", CCTV News
+http://103.13.228.157/streamlink.m3u8?channel_id=0ed1c715dc864ab3912d4015903a3d85
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", CCTV-4
+http://103.13.228.157/streamlink.m3u8?channel_id=5289381709e64f8db14a4ed75ab2b59f
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", CCTV-9 Documentary
+http://103.13.228.157/streamlink.m3u8?channel_id=b08a8052e6724bedba5399f662715ad1
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Celestial Classic Movie
+http://103.13.228.157/streamlink.m3u8?channel_id=1c2276a2f1884b269ce281c3334e8f85
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", CH 2 STAR MAX Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=4E38ED2FA4DD43999828EAB81196DEFF
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", CH 3 Family
+http://103.13.228.157/streamlink.m3u8?channel_id=93d89e479ef9499a9c1ddc36b85e4190
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", CH 3 HD
+http://103.13.228.157/streamlink.m3u8?channel_id=a4485b656d764f308c63b14a8bf62326
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", CH 3 Original
+http://103.13.228.157/streamlink.m3u8?channel_id=8BAD9F20FF2246B894EDDCED10DCFDEB
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", CH 3 SD
+http://103.13.228.157/streamlink.m3u8?channel_id=0296e16fac6149ed99004125f37fa2e4
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", CH 5
+http://103.13.228.157/streamlink.m3u8?channel_id=20769e00d2a44f6b9c581c98c8c70fea
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", CH 5 HD
+http://103.13.228.157/streamlink.m3u8?channel_id=1D92193B11FE490B8C67D0A88BEE3FD6
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", CH 7 HD
+http://103.13.228.157/streamlink.m3u8?channel_id=ddfa47e726444446864b14e0e819fdde
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", CH 8
+http://103.13.228.157/streamlink.m3u8?channel_id=15c52eeb21b748319771eb794a6cf242
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Chalermkrung
+http://symphony.live-s.cdn.bitgravity.com/cdn-live/_definst_/symphony/live/feed04/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Chalermkrung
+http://symphony.live-s.cdn.bitgravity.com/cdn-live/_definst_/symphony/live/feed04/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Channel M HD
+http://103.13.228.157/streamlink.m3u8?channel_id=8237601ce3ea4bae8332ebb0d88dba87
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Channel News Asia
+http://103.13.228.157/streamlink.m3u8?channel_id=018d9f65365a4744b2c8222ca1d54be9
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Channel V China
+http://103.13.228.157/streamlink.m3u8?channel_id=9102f3553f3246ecbbc9738dd4803344
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Channel V India
+http://103.13.228.157/streamlink.m3u8?channel_id=09cac500285d42ec97465b2219db5f53
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Channel V International
+http://103.13.228.157/streamlink.m3u8?channel_id=9e38a0084e6d45d080139a166c60a102
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Comedy Central HD
+http://103.13.228.157/streamlink.m3u8?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Crime and Investigation (CI)
+http://103.13.228.157/streamlink.m3u8?channel_id=9961a963920f45f4bc0d81c3e478b334
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Dara Daily
+http://103.13.228.157/streamlink.m3u8?channel_id=1E2B9312FC384567AC6A12E650D8796A
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Deutsche Welle
+http://103.13.228.157/streamlink.m3u8?channel_id=6DE1E752A9974A5980166483C8ED6BB8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", DISTINQUISHED
+rtmp://lm01.everyon.tv:1935/ptv/pld639
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", DMC
+http://103.13.228.157/streamlink.m3u8?channel_id=326A1BC675A843488B0B4D69B4F75246
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Dude TV
+http://103.13.228.157/streamlink.m3u8?channel_id=2EE9E13BB4E442D29F7E3E858E8222E7
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Edge HD
+http://103.13.228.157/streamlink.m3u8?channel_id=3764586b28544a0fa379b1d4e400c100
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", ESTRADIOL TV
+rtmp://lm01.everyon.tv:1935/ptv/pld197
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", ETC
+http://103.13.228.157/streamlink.m3u8?channel_id=dcf0d550815947f3bacaf3521e118124
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", ETV
+http://103.13.228.157/streamlink.m3u8?channel_id=dbab2fe24ce643689045d3c81e1954d6
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Euronews
+http://103.13.228.157/streamlink.m3u8?channel_id=3F35C4428A0D4004A38FF0ADBA7664F4
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Fan TV HD
+http://103.13.228.157/streamlink.m3u8?channel_id=345A4277DD864037B6B4FB5A562AF59C
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Farm Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=817C9A06488C4FF7BC8D505038A7652A
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Fashion TV HD
+http://103.13.228.157/streamlink.m3u8?channel_id=91fbba1d5af544ac92a2c64e5d177e9d
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Fox Crime HD
+http://103.13.228.157/streamlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Fox News
+http://103.13.228.157/streamlink.m3u8?channel_id=1e2041858ca543fa90ec95d28197e907
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", France 24
+http://103.13.228.157/streamlink.m3u8?channel_id=82C764AA2D7F42579348B8717CB5B9A4
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", FX HD
+http://103.13.228.157/streamlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Gang Cartoon
+http://103.13.228.157/streamlink.m3u8?channel_id=7299670a140849a9aaf946b0302ad886
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Grand Prix Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=e05107e8304b4d118c92b5dffa636715
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Green Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=7454994CEF7F464F9BF8E4331EE83902
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", GTV
+rtmp://lm01.everyon.tv:1935/ptv/pld44
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", GWE
+http://103.13.228.157/streamlink.m3u8?channel_id=a9ac34e4c6d84d529ded903c6917bb94
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Havoc 247 HD
+http://103.13.228.157/streamlink.m3u8?channel_id=1cc4029ae4ab4a27881f2e83db3fde08
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", HUZHOU ENTERTAINMENT CHANNEL mms wmv
+mms://live.hugd.com/whyl.wmv
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", HUZHOU NEWS mms wmv
+mms://live.hugd.com/xwzh.wmv
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", HUZHOU PUBLIC CHANNEL mms wmv
+mms://live.hugd.com/ggms.wmv
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", IN TV
+http://103.13.228.157/streamlink.m3u8?channel_id=A5E2F72AC54E4C3489AE8F272F044999
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", INDONESIA:Berita Satu English HD
+http://beritasatulive-lh.akamaihd.net/i/b1english_1@50428/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", INDONESIA:Berita Satu English SD
+http://beritasatulive-lh.akamaihd.net/i/b1english_1@50428/index_360_av-p.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", INDONESIA:Berita Satu News HD
+http://beritasatulive-lh.akamaihd.net/i/b1news_1@47648/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", INDONESIA:Berita Satu News SD
+http://beritasatulive-lh.akamaihd.net/i/b1news_1@47648/index_360_av-p.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", INDONESIA:Berita Satu Sport HD
+http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", INDONESIA:Berita Satu Sport SD
+http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_360_av-p.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", INDONESIA:Berita Satu World HD
+http://beritasatulive-lh.akamaihd.net/i/b1world_1@38149/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", INDONESIA:Berita Satu World SD
+http://beritasatulive-lh.akamaihd.net/i/b1world_1@38149/index_360_av-p.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", ITV Choice
+http://103.13.228.157/streamlink.m3u8?channel_id=e36b99bcd26648af9db2261785c77b7a
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", JCTV
+http://nstream.trinetsolutions.com/wmedia-live/tbn/8032/300_tbn-jctv_050222.asx
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", JKN
+http://103.13.228.157/streamlink.m3u8?channel_id=FC8195DC989240348772D00DD9EBA3D0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", K-Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=e779ab60cd294e9ca2f3661b7709a286
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", KidsCo
+http://103.13.228.157/streamlink.m3u8?channel_id=fdaede40b27445ac893189bc6332c914
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Kix
+http://103.13.228.157/streamlink.m3u8?channel_id=e584e0adae6440eab366f5fe3a824f91
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", LOCA
+http://103.13.228.157/streamlink.m3u8?channel_id=80AAD4DD6E424C14921832300C74A202
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", M Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=97f3052bec96482584c5de84dda0d745
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Major Channel Asian
+http://103.13.228.157/streamlink.m3u8?channel_id=99DB2ADD23B447F696B0EFFD5EE4EBF4
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Major Channel MIX
+http://103.13.228.157/streamlink.m3u8?channel_id=AB6ACB38607A4AFF9DC773A6772C91FC
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Matial Arts Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=0d9fc0134f2143148e57461d69180d13
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", MCOT Family
+http://103.13.228.157/streamlink.m3u8?channel_id=2e1f1aff8eaf4a88b4c69a7da5487566
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", MCOT HD
+http://103.13.228.157/streamlink.m3u8?channel_id=3AE2FD6CCAF6499E898DE377ED74EA12
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", MGTV
+http://103.13.228.157/streamlink.m3u8?channel_id=0518392DC56246E1808C211C796D5E84
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", MHARISHI CHANNEL
+rtsp://streaming.mou.org/videodialup
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Miracle TV
+http://103.13.228.157/streamlink.m3u8?channel_id=25713D0629F148ADBFEDBDF4284AFB09
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Miti4
+http://103.13.228.157/streamlink.m3u8?channel_id=D2DC7D7F3D234B5A9EF526E2FC16FB7B
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Modern 9
+http://103.13.228.157/streamlink.m3u8?channel_id=3764586b28544a0fa379b1d4e400c100
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Modern TV
+http://103.13.228.157/streamlink.m3u8?channel_id=C9551CA2C2284826B6AEB398824F3A18
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Money Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=f902199d513449e6a51ce477508b1246
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Mongkol Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=FCC2F9D7000747D5A55680D8EBA2B3EF
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Mono 29
+http://103.13.228.157/streamlink.m3u8?channel_id=fd23603db67344c69a8304a2fca268cd
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Motorvision HD
+http://103.13.228.157/streamlink.m3u8?channel_id=4c2ebe80b19049deac5ad59b478a79ac
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", MSNBC HD
+http://103.13.228.157/streamlink.m3u8?channel_id=7f2989e3f87e4efdb36bac56b64dca62
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", MTV Asia
+http://103.13.228.157/streamlink.m3u8?channel_id=ebce2f5139c54eda8b111e5923af9c9e
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", MTV China
+http://103.13.228.157/streamlink.m3u8?channel_id=deb56e700dbc4d9ea5af08e9d300a675
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", MTV Live HD
+http://103.13.228.157/streamlink.m3u8?channel_id=8d45473ff4ca44d79e1abc4516c2fee0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Music HD
+http://103.13.228.157/streamlink.m3u8?channel_id=6419c83b42934de3a333c5a32737b559
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", MYJAVA
+rtmp://s1.media-planet.sk:80/live/myjava1
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Nat Geo Music HD
+http://103.13.228.157/streamlink.m3u8?channel_id=69c2eab6794344619a049c5dea60ca22
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Nat Geo People HD
+http://103.13.228.157/streamlink.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Nat Geo Wild HD
+http://103.13.228.157/streamlink.m3u8?channel_id=607fa33938bc4a3ea6c43ce47ddb8ed8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Nation Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=A5B25476119B46F5B5A34D56F7D1156C
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", NBT
+http://103.13.228.157/streamlink.m3u8?channel_id=47105F5B5ACC488FB43354F6FA3142C1
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", NBT (Digital)
+http://103.13.228.157/streamlink.m3u8?channel_id=ce9a1585f45d4379970b95308df3f879
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", new)tv
+http://103.13.228.157/streamlink.m3u8?channel_id=0d01fdc1362f427ca5527c645f5f908f
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", NHK World
+http://103.13.228.157/streamlink.m3u8?channel_id=cd25fccffa6f4a2f8d7190d3e8907440
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Nick Jr
+http://103.13.228.157/streamlink.m3u8?channel_id=2b72986be9314c139db95f6098d1c413
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", NOW
+http://103.13.228.157/streamlink.m3u8?channel_id=732ace1b4983472097eedb0d415dc231
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", ONE
+http://103.13.228.157/streamlink.m3u8?channel_id=7e069540a35942e89245865a84add64a
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Outdoor Channel HD
+http://103.13.228.157/streamlink.m3u8?channel_id=1c551f42019d40e8acf32e8218ef8703
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", PAKISTAN MADANI CHANNEL
+http://108.168.128.203/live/myStream/hasbahca.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Play Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=7FFD465083064140836E6E8B2415AD19
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", POP
+http://103.13.228.157/streamlink.m3u8?channel_id=5389167315DC4A619ED5BC72F66A1C4F
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", PPTV HD
+http://103.13.228.157/streamlink.m3u8?channel_id=623d009180394c528880c14e2254452a
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", RUTV1
+http://103.13.228.157/streamlink.m3u8?channel_id=775457ad94714d54bb7b065a46722a10
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", RUTV2
+http://103.13.228.157/streamlink.m3u8?channel_id=a14c037d82434032ad04fec7e6743961
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Sabaidee TV
+http://103.13.228.157/streamlink.m3u8?channel_id=B9BEDB1B0539456DBC84542CF2EBCA7B
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", SAFE TV
+rtmp://lm02.everyon.tv:1935/ptv2/pld109
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Sahara Samay
+http://103.13.228.157/streamlink.m3u8?channel_id=ef46ba5648314d5c9979db03a5307a50
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Sahara Samay Madhya Pradesh
+http://103.13.228.157/streamlink.m3u8?channel_id=304d812ce66a44a7a7eea2fe10dc9d1e
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Saranair Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=BB8F0DEBA37F4F3A8D0BD0DE1656852F
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", SCTV
+rtsp://cdn.mivo.tv/mivotvjkt/sctv2
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", SET – Sony Entertainment Television
+http://103.13.228.157/streamlink.m3u8?channel_id=bd30e27f1c48430ba2104548a1b124ca
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Sky News HD
+http://103.13.228.157/streamlink.m3u8?channel_id=31b003ab7e7749a798fe00424e3dd9ff
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", SMM TV
+http://103.13.228.157/streamlink.m3u8?channel_id=48cac6380caf4f078eafccc63804ac23
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Spring News
+http://103.13.228.157/streamlink.m3u8?channel_id=1AE0F87662C248D693D2EED30B698760
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", STAR Chinese Movies HD
+http://103.13.228.157/streamlink.m3u8?channel_id=29a09591a6604ff3b798cd7ef809e4bd
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", STAR Chinese Movies Legend
+http://103.13.228.157/streamlink.m3u8?channel_id=c8233976dbba4a06a101780907447375
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Star Gold
+http://103.13.228.157/streamlink.m3u8?channel_id=53c2bf7e52a44fd8b6df7f9e83891bbc
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Star Plus
+http://103.13.228.157/streamlink.m3u8?channel_id=7c75ad89c1cc417aa0f066133c0a2333
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Star World HD
+http://103.13.228.157/streamlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", SUN CHANNEL
+http://103.13.228.157/streamlink.m3u8?channel_id=ce4efc6a833f424f8d6cdcad5573f369
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", SUVARNA TV
+rtsp://cdn.m.yupptv.tv/liveorigin/suvarna1
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", SVBC
+rtsp://cdn.m.yupptv.tv/liveorigin/svbc1
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Syfy
+http://103.13.228.157/streamlink.m3u8?channel_id=71f197de056e499a85265c03b44bdab1
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", T Sports Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=3EE1E656D6AE417A914743328D44F20F
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Ten Cricket
+http://103.13.228.157/streamlink.m3u8?channel_id=07febaf06cea4afeba557b3836d959d6
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", TGN
+http://103.13.228.157/streamlink.m3u8?channel_id=e362c185f33d4e2d8ae8921cbff3ca4e
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", TGN1
+http://103.13.228.157/streamlink.m3u8?channel_id=9782e7e7da814652a62cfca2f97f781a
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Thai Chaiyo
+http://103.13.228.157/streamlink.m3u8?channel_id=a2ca06da9478412e9501d968e31bbf75
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Thai TV (THV)
+http://103.13.228.157/streamlink.m3u8?channel_id=bfee35dc7917423eb68fc3e5edaaae64
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", ThaiPBS
+http://103.13.228.157/streamlink.m3u8?channel_id=D7182FAE6E9F4D929BDB5AE06059BDA8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Thairath TV
+http://103.13.228.157/streamlink.m3u8?channel_id=b1bc90419ccb4885bb0b544bb2b8ee83
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Thairath TV HD
+http://103.13.228.157/streamlink.m3u8?channel_id=5f59a04ad28d4d839674f27e5834971f
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", The Africa Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=eea31a4e48aa4d51a4ce8cdaa1c3a957
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Thrill
+http://103.13.228.157/streamlink.m3u8?channel_id=c316ed9333e54442b25077f0bb3cc269
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", T-News Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=bcc7d0600c9943f2a1114f5749d180e8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", TNN 24
+http://103.13.228.157/streamlink.m3u8?channel_id=77774220bb8e40aa94e549e29ff3ed8a
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", TOMATO TV
+rtmp://etomatofms2.hscdn.com/etomato.dvr/mp4:etomato
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", TOT Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=360304543ea24956a78f9ba83edba1c0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Trace Urban TV HD
+http://103.13.228.157/streamlink.m3u8?channel_id=69ebf00065494dc39a3911c7d1eb9d71
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Travel Channel International
+http://103.13.228.157/streamlink.m3u8?channel_id=4c136f4cb1fd4f62a583a029c2eb6c77
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", TRUE4U
+http://103.13.228.157/streamlink.m3u8?channel_id=9ece9059930d4331a3d445f96fb30dff
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", TV Muslim
+http://103.13.228.157/streamlink.m3u8?channel_id=59B6733E43BA4F93AA90A2B58FD77705
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Universal Channel
+hthttp://103.13.228.157/streamlink.m3u8?channel_id=a7105ed1bb0a44bba1f4f71f2352b892
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Variety NEWS Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=CF984F0C8B6444B49C9C05273A59CFE4
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Vetee Thai
+http://103.13.228.157/streamlink.m3u8?channel_id=768AB5CAF16E44689C3A75E6A3F57B5C
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Voice TV
+http://103.13.228.157/streamlink.m3u8?channel_id=B29F0E7ADA6348C6851BAD32728A6DDB
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", WBTV – Warner Bros Television
+http://103.13.228.157/streamlink.m3u8?channel_id=06e717f5ec0c4657a8c76c4dfcf9449b
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", WeTV HD
+http://103.13.228.157/streamlink.m3u8?channel_id=dea34fa045074639b3a18123d4b4eda0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", White Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=d0a4c5741f014d0481accc31aeb33baa
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Workpoint TV
+http://103.13.228.157/streamlink.m3u8?channel_id=a9a68ab5471d4d39ba25695a66957067
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", WORLD EVENTS TV
+rtmp://lm01.everyon.tv:1935/ptv/pld389
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", YATEEM TV
+http://103.13.228.157/streamlink.m3u8?channel_id=7d11f01b76514ef199d4974e0a14194c
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", You Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=8E959F5D739D497C95FAA31B3A810DD6
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", You2Play
+http://103.13.228.157/streamlink.m3u8?channel_id=2ABFE809BF0448E08159EF7057CA00D4
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Z:Zee Classic
+http://103.13.228.157/streamlink.m3u8?channel_id=e2f5c5390bbb4e2781454f3f32add81c
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Zaa Network HD
+http://103.13.228.157/streamlink.m3u8?channel_id=9623847065ba466e90632cf686fade0b
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Zee Business
+http://103.13.228.157/streamlink.m3u8?channel_id=04c8c255153b4272a1a0ef19ff3236f1
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Zee Cinema
+http://103.13.228.157/streamlink.m3u8?channel_id=18560c96b9f446bb87acb8981a2fe9c5
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Zee News
+http://103.13.228.157/streamlink.m3u8?channel_id=7d1847a9b91246b8af20629bfc24d9da
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Zee TV
+http://103.13.228.157/streamlink.m3u8?channel_id=8be5e8787848472089925a7bb7f43ef1
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", Zing
+http://103.13.228.157/streamlink.m3u8?channel_id=3e30590edd7940e29335d243342fc6b0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="India TV", ZUGLO TV mms
+mms://stream01.gtk.hu/zuglotv_live
